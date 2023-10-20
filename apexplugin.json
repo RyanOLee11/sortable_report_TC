@@ -27,7 +27,7 @@
         "internalName": "THEME$SORTABLE_REPORT",
         "type": "template component",
         "demo": "https://apex.oracle.com/pls/apex/r/ryanolee11/ryan-component-templates/sortable-report",
-        "previewImage": "https://github.com/RyanOLee11/chartjs_partial/blob/main/assets/chartjs_tc_preview.png?raw=true"
+        "previewImage": "https://github.com/RyanOLee11/sortable_report_TC/blob/main/assets/sortable_report_preview.png?raw=true"
       }
     }
   }
